@@ -10,51 +10,6 @@
 
 <br/>
 
-### About
-
-I'm an Electronics & Communication Engineering student at NIT Jalandhar, working at the intersection of embedded systems, PCB design, and robotics. I like building things that move from schematic to hardware — from custom boards in KiCad to autonomous machines that run on them.
-
-### Currently Building
-
-- Humanoid robot electronics at IIT Jammu — battery systems, BMS, and STM32/ESP32 embedded control
-- A GPS-denied autonomous drone using Jetson, stereo vision, and Visual SLAM
-- Contributing to open source through GSSoC, on the AI/Agents track
-- Heading into a new semester with a sharper academic focus
-
-### Tools I Use
-
-<p>
-<img src="https://img.shields.io/badge/C-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/C++-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embedded%20C-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Verilog%20HDL-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-38BDF8?style=flat-square"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/STM32-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/ESP32-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/ESP32--S3-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Arduino-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jetson-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/FreeRTOS-38BDF8?style=flat-square"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/KiCad-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/EasyEDA-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/LTspice-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Fusion%20360-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sky130-38BDF8?style=flat-square"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/ROS2-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/TensorFlow-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/MATLAB-38BDF8?style=flat-square"/>
-</p>
 
 ### Reach Me
 
