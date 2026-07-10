@@ -6,7 +6,7 @@
 
 <em>"Engineering is about solving problems one step at a time.<br/>Here's to learning, creating, and sharing my journey."</em>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38BDF8,100:0EA5E9&height=6&width=420" width="40%"/>
 
